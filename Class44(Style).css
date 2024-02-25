@@ -1,0 +1,24 @@
+.banner-section {
+    background-color: red;
+    height: 100vh;
+
+}
+
+
+ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+    justify-content: right;
+    padding: 20px;
+
+}
+
+li:hover {
+    font-size: 23px;
+    cursor: pointer;
+
+}
